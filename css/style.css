@@ -1,0 +1,58 @@
+.bannerBgImage {
+
+    height: 15px;
+    width: 12px;
+    background-size: 25cm;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.bannerText {
+    margin-top: 20%;
+    font-size: 30px;
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    }
+.bannerText p span{
+    color: deepskyblue;
+
+}
+.bannerTitle {
+    font-size: 4rem;
+ }
+    
+.bannerDesc{
+    font-size: 2rem;
+     }
+.card {
+  cursor: pointer;
+        }
+        
+.card:hover{
+        background-color:palevioletred;
+        border: 2px solid yellowgreen;
+        }
+.bIcon {
+         width: 100%;
+         text-align: center;
+         font-size: 50px;
+        }
+.img-fluid:hover{ 
+    border: 2px solid yellowgreen;
+     }
+.card-img-top {
+ height: 50vh;
+}
+.card-body h5 span {
+    color: brown;
+}
+.card-body h5 span {
+    color: deepskyblue;
+}
+.card-body h5 span {
+    color: deepskyblue;
+}
