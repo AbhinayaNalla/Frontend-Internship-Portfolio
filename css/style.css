@@ -56,3 +56,18 @@
 .card-body h5 span {
     color: deepskyblue;
 }
+body {
+  width: 100%;
+}
+/* Set the width of the main content area */
+main {
+  width: 80%;
+}
+/* Center the main content area */
+main {
+  margin: 0 auto;
+}
+/* Resize the header and footer as the window gets smaller */
+header, footer {
+  display: block;
+}
